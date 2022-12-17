@@ -1,0 +1,4 @@
+Note that this program has only been tested on UBUNTU 22.04 ARM64
+
+The included CSV file can be utilized as an alternative to configuring SNORT. In order to test the operation of each module the information in the last row of the CSV file can be manipulated(protocol,priority level integer).
+
